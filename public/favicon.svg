@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <rect width="80" height="80" rx="20" fill="#0F1117"/>
+  <circle cx="40" cy="40" r="26" fill="none" stroke="#1A3A0A" stroke-width="5"/>
+  <circle cx="40" cy="40" r="26" fill="none" stroke="#97C459" stroke-width="5"
+    stroke-dasharray="122 41" stroke-dashoffset="41" stroke-linecap="round"
+    transform="rotate(-90 40 40)"/>
+  <text x="40" y="45" text-anchor="middle" fill="#C0DD97"
+    font-size="15" font-weight="700" font-family="system-ui,sans-serif">75</text>
+</svg>
