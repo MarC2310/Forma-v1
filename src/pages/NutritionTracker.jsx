@@ -1900,13 +1900,6 @@ export default function NutritionTracker({ onBack }) {
         )
       })()}
 
-      {showPhotoAnalyzer && (
-        <FoodPhotoAnalyzer
-          c={c}
-          onClose={() => setShowPhotoAnalyzer(false)}
-          onAddToLog={() => loadDay(selectedDate)}
-        />
-      )}
-    </div>
+          </div>
   )
 }
